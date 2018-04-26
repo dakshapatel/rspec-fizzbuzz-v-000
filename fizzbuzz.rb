@@ -3,15 +3,15 @@
 def fizzbuzz(i)
   if i % 3 == 0 && i % 5 == 0
 
-      returns "FizzBuzz"
+      "FizzBuzz"
     elsif i % 3 == 0
 
-      returns "Fizz"
+       "Fizz"
     elsif i % 5 == 0
 
-      returns "Buzz"
+      "Buzz"
     else
 
-      returns i
+       i
     end
   end
