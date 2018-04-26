@@ -12,6 +12,6 @@ def fizzbuzz(i)
       "Buzz"
     else
 
-       i
+       puts i
     end
   end
